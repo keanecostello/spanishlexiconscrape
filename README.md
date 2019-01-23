@@ -1,0 +1,2 @@
+# spanishlexiconscrape
+Python scrape 
